@@ -1,5 +1,5 @@
 //Sandoval Rodríguez Lendy Joanna 1219100438
-//GDGS2102-E
+//GDGS2102-E 23/09/2022
 
 using System.Collections;
 using System.Collections.Generic;
